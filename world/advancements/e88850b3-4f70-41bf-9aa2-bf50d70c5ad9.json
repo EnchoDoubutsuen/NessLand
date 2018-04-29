@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2018-04-29 22:52:10 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_the_recipe": "2018-04-29 12:33:25 +0900"
@@ -343,6 +349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2018-04-29 22:52:10 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2018-04-29 12:52:58 +0900"
@@ -556,6 +568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2018-04-29 22:11:47 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2018-04-29 12:39:52 +0900"
@@ -601,6 +619,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-04-29 12:50:29 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2018-04-29 22:52:10 +0900"
     },
     "done": true
   },
@@ -769,6 +793,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2018-04-29 18:21:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2018-04-29 22:11:47 +0900"
     },
     "done": true
   },
@@ -988,6 +1018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2018-04-29 22:52:10 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2018-04-29 19:44:00 +0900"
@@ -1015,6 +1051,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2018-04-29 16:11:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2018-04-29 22:11:47 +0900"
     },
     "done": true
   },
@@ -1068,6 +1110,12 @@
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2018-04-29 12:39:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2018-04-29 22:52:10 +0900"
     },
     "done": true
   },
