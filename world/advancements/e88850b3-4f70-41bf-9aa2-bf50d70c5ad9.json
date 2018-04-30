@@ -361,7 +361,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2018-04-30 17:57:14 +0900",
       "baked_potato": "2018-04-29 13:32:48 +0900",
+      "potato": "2018-04-30 18:18:18 +0900",
       "bread": "2018-04-29 12:58:04 +0900",
       "cooked_chicken": "2018-04-29 18:18:31 +0900"
     },
@@ -700,6 +702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2018-04-30 16:32:19 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2018-04-29 12:39:52 +0900"
@@ -754,6 +762,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2018-04-30 18:52:14 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-04-29 13:01:07 +0900"
@@ -793,6 +807,12 @@
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-04-29 13:01:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2018-04-30 19:07:23 +0900"
     },
     "done": true
   },
@@ -846,6 +866,7 @@
       "skeleton": "2018-04-29 12:49:45 +0900",
       "blaze": "2018-04-29 16:30:51 +0900",
       "zombie": "2018-04-29 12:49:20 +0900",
+      "silverfish": "2018-04-30 16:59:47 +0900",
       "spider": "2018-04-29 13:09:36 +0900",
       "ghast": "2018-04-29 16:13:04 +0900",
       "creeper": "2018-04-29 14:47:20 +0900"
@@ -978,6 +999,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2018-04-30 16:32:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-04-29 13:01:07 +0900"
@@ -1014,6 +1041,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2018-04-30 16:32:19 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2018-04-30 10:58:05 +0900"
@@ -1047,6 +1080,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2018-04-29 18:21:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2018-04-30 17:33:24 +0900"
     },
     "done": true
   },
@@ -1167,6 +1206,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2018-04-30 10:58:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2018-04-30 16:47:07 +0900"
     },
     "done": true
   },
@@ -1540,6 +1585,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2018-04-30 18:43:04 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2018-04-30 13:23:51 +0900"
@@ -1597,6 +1648,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-04-29 13:01:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2018-04-30 17:33:24 +0900"
     },
     "done": true
   },
@@ -1711,6 +1768,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2018-04-30 15:39:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2018-04-30 16:32:19 +0900"
     },
     "done": true
   },
