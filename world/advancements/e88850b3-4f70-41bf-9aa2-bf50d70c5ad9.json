@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2018-05-05 06:47:35 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2018-04-29 13:02:01 +0900"
@@ -405,6 +411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_the_recipe": "2018-05-05 01:18:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2018-04-29 12:52:58 +0900"
@@ -426,6 +438,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-04-30 13:23:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2018-05-05 06:47:35 +0900"
     },
     "done": true
   },
@@ -732,6 +750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2018-05-05 06:47:35 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-04-29 12:50:29 +0900"
@@ -881,7 +905,8 @@
       "silverfish": "2018-04-30 16:59:47 +0900",
       "spider": "2018-04-29 13:09:36 +0900",
       "ghast": "2018-04-29 16:13:04 +0900",
-      "creeper": "2018-04-29 14:47:20 +0900"
+      "creeper": "2018-04-29 14:47:20 +0900",
+      "enderman": "2018-05-05 00:47:58 +0900"
     },
     "done": false
   },
@@ -1173,6 +1198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2018-05-04 19:57:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2018-04-29 12:59:51 +0900"
@@ -1302,6 +1333,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2018-04-30 10:58:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fence": {
+    "criteria": {
+      "has_planks": "2018-05-05 06:47:35 +0900"
     },
     "done": true
   },
@@ -1792,6 +1829,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2018-04-30 15:39:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_door": {
+    "criteria": {
+      "has_planks": "2018-05-05 06:47:35 +0900"
     },
     "done": true
   },
