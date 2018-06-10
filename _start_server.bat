@@ -1,1 +1,1 @@
-java -server -Xms3G -Xmx3G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn1G -XX:MaxNewSize=1G -jar minecraft_server.1.12.2.jar nogui
+java -server -Xms8G -Xmx8G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn3G -XX:MaxNewSize=3G -jar minecraft_server.1.12.2.jar nogui
