@@ -545,13 +545,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-04-29 12:50:29 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-04-29 12:50:29 +0900"
     },
@@ -620,6 +620,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2018-05-05 06:47:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2018-07-07 16:37:35 +0900"
     },
     "done": true
   },
@@ -1057,6 +1063,7 @@
       "minecraft:ghast": "2018-07-07 15:16:04 +0900",
       "minecraft:silverfish": "2018-07-05 20:25:56 +0900",
       "minecraft:enderman": "2018-07-01 21:32:21 +0900",
+      "minecraft:magma_cube": "2018-07-07 15:49:00 +0900",
       "minecraft:spider": "2018-07-06 23:15:56 +0900",
       "minecraft:zombie": "2018-07-06 22:33:17 +0900",
       "minecraft:creeper": "2018-07-06 22:31:01 +0900",
