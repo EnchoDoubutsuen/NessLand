@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2018-07-07 15:33:19 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2018-04-29 12:52:58 +0900"
@@ -539,13 +545,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-04-29 12:50:29 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-04-29 12:50:29 +0900"
     },
@@ -791,6 +797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2018-07-07 15:33:19 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2018-04-29 12:33:13 +0900"
@@ -995,13 +1007,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-04-29 13:16:41 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-04-29 13:16:41 +0900"
     },
@@ -1039,8 +1051,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:enderman": "2018-07-01 21:32:21 +0900",
+      "minecraft:blaze": "2018-07-07 15:33:50 +0900",
+      "minecraft:skeleton": "2018-07-06 22:34:51 +0900",
+      "minecraft:wither_skeleton": "2018-07-07 15:21:21 +0900",
+      "minecraft:ghast": "2018-07-07 15:16:04 +0900",
       "minecraft:silverfish": "2018-07-05 20:25:56 +0900",
+      "minecraft:enderman": "2018-07-01 21:32:21 +0900",
+      "minecraft:spider": "2018-07-06 23:15:56 +0900",
+      "minecraft:zombie": "2018-07-06 22:33:17 +0900",
+      "minecraft:creeper": "2018-07-06 22:31:01 +0900",
+      "minecraft:zombie_villager": "2018-07-06 22:33:26 +0900",
       "minecraft:slime": "2018-07-05 20:30:23 +0900"
     },
     "done": false
@@ -1084,6 +1104,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2018-04-29 19:50:16 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2018-07-06 23:49:36 +0900"
     },
     "done": true
   },
@@ -1851,8 +1877,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2018-04-29 12:39:24 +0900",
       "minecraft:mountains": "2018-04-30 15:59:18 +0900",
+      "minecraft:forest": "2018-04-29 12:39:24 +0900",
       "minecraft:taiga": "2018-04-29 12:32:57 +0900",
       "minecraft:taiga_hills": "2018-04-29 12:41:27 +0900",
       "minecraft:desert": "2018-06-22 23:38:12 +0900",
@@ -1891,6 +1917,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2018-04-29 12:37:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2018-07-06 23:14:56 +0900"
     },
     "done": true
   },
@@ -2008,6 +2040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2018-07-07 15:36:07 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2018-04-29 13:02:07 +0900"
@@ -2116,9 +2154,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_at_least_9_diamond": "2018-07-07 15:36:07 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2018-05-12 20:20:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2018-07-06 22:34:52 +0900"
     },
     "done": true
   },
