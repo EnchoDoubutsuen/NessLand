@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2018-07-07 20:50:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_at_least_9_ice": "2018-06-24 19:26:09 +0900"
@@ -1074,8 +1080,8 @@
       "minecraft:wither_skeleton": "2018-07-07 15:21:21 +0900",
       "minecraft:zombie_pigman": "2018-07-07 17:22:25 +0900",
       "minecraft:ghast": "2018-07-07 15:16:04 +0900",
-      "minecraft:silverfish": "2018-07-05 20:25:56 +0900",
       "minecraft:enderman": "2018-07-01 21:32:21 +0900",
+      "minecraft:silverfish": "2018-07-05 20:25:56 +0900",
       "minecraft:magma_cube": "2018-07-07 15:49:00 +0900",
       "minecraft:spider": "2018-07-06 23:15:56 +0900",
       "minecraft:zombie": "2018-07-06 22:33:17 +0900",
@@ -1430,6 +1436,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2018-04-29 16:30:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2018-07-07 20:50:21 +0900"
     },
     "done": true
   },
@@ -1897,8 +1909,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2018-04-30 15:59:18 +0900",
       "minecraft:forest": "2018-04-29 12:39:24 +0900",
+      "minecraft:mountains": "2018-04-30 15:59:18 +0900",
       "minecraft:taiga": "2018-04-29 12:32:57 +0900",
       "minecraft:taiga_hills": "2018-04-29 12:41:27 +0900",
       "minecraft:desert": "2018-06-22 23:38:12 +0900",
