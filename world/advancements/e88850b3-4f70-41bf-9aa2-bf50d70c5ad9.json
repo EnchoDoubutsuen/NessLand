@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2018-07-18 20:03:03 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2018-05-12 12:55:40 +0900"
@@ -535,6 +541,7 @@
       "minecraft:wither_skeleton": "2018-07-07 15:21:21 +0900",
       "minecraft:zombie_pigman": "2018-07-07 17:22:25 +0900",
       "minecraft:ghast": "2018-07-07 15:16:04 +0900",
+      "minecraft:cave_spider": "2018-07-18 19:43:30 +0900",
       "minecraft:silverfish": "2018-07-05 20:25:56 +0900",
       "minecraft:enderman": "2018-07-01 21:32:21 +0900",
       "minecraft:magma_cube": "2018-07-07 15:49:00 +0900",
@@ -580,6 +587,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-04-30 13:23:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2018-07-18 20:03:03 +0900"
     },
     "done": true
   },
@@ -1775,6 +1788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2018-07-18 20:12:13 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2018-04-30 11:23:58 +0900"
@@ -2330,6 +2349,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2018-04-29 12:52:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2018-07-18 20:03:03 +0900"
     },
     "done": true
   },
